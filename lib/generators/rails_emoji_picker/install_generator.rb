@@ -24,7 +24,7 @@ module RailsEmojiPicker
 
           3. To show text with emoji, use helper content_with_emoji
 
-        Example:
+        Exaple:
           #{green 'p.emoji-picker-container'}
             #{green '= f.text_field :title, class: "form-control", data: { emojiable: true }'}
 
